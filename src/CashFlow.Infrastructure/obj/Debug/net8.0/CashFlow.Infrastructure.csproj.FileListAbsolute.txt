@@ -1,0 +1,15 @@
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.deps.json
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfo.cs
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.84FCB40E.Up2Date
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.dll
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\refint\CashFlow.Infrastructure.dll
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.pdb
+C:\Users\cassa\OneDrive\Documentos\C#\ROCKET\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\ref\CashFlow.Infrastructure.dll
