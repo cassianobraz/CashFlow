@@ -130,6 +130,6 @@
     <value>The Title is required.</value>
   </data>
   <data name="UNKNOWN_ERROR" xml:space="preserve">
-    <value>unknown error</value>
+    <value>unknown error.</value>
   </data>
 </root>

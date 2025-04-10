@@ -29,7 +29,7 @@ namespace CashFlow.Exception {
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        public ResourceErrorMessages() {
+        internal ResourceErrorMessages() {
         }
         
         /// <summary>
@@ -97,7 +97,7 @@ namespace CashFlow.Exception {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to unknown error.
+        ///   Looks up a localized string similar to unknown error..
         /// </summary>
         public static string UNKNOWN_ERROR {
             get {
