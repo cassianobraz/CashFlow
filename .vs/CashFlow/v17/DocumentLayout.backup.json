@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\cassa\\OneDrive\\Documentos\\C#\\ROCKET\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECBEC3BE-1E25-410E-955A-AE7FE85C5DE6}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\cassa\\onedrive\\documentos\\c#\\rocket\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECBEC3BE-1E25-410E-955A-AE7FE85C5DE6}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CB5EB67-D8F6-4CDD-B371-71204E594448}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\cassa\\onedrive\\documentos\\c#\\rocket\\cashflow\\src\\cashflow.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB5EB67-D8F6-4CDD-B371-71204E594448}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegisterExpenseValidator.cs",
-              "DocumentMoniker": "C:\\Users\\cassa\\OneDrive\\Documentos\\C#\\ROCKET\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "ToolTip": "C:\\Users\\cassa\\OneDrive\\Documentos\\C#\\ROCKET\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\cassa\\OneDrive\\Documentos\\C#\\ROCKET\\CashFlow\\src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\cassa\\OneDrive\\Documentos\\C#\\ROCKET\\CashFlow\\src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T20:16:57.157Z",
+              "WhenOpened": "2025-04-10T00:02:14.86Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
